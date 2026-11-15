@@ -21,7 +21,7 @@ Una primera oportunidad como **analista de datos junior** o prácticas, donde se
 
 ## 📫 Contacto
 
-- LinkedIn: [www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143]
+- LinkedIn: www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143
 
 <!--
 **Fabianbrd/Fabianbrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
