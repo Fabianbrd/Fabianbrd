@@ -99,12 +99,3 @@ Focused on applying Data Analytics and Business Intelligence tools through SQL, 
 **Open to:** On-site, hybrid and remote opportunities in Spain and Latin America.
 
 **LinkedIn:** [View my LinkedIn profile](https://www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143)
-- Supermarket Sales Analysis – Ecuador: Analysis of more than 3 million sales records using Python and SQL.
-- Titanic Machine Learning: Exploratory data analysis, predictive model comparison and Kaggle predictions.
-
-**Professional interests:** Data Analyst, BI Analyst, SQL Developer and Reporting Analyst. 
-
-**Location:** Madrid, Spain.  
-**Open to:** On-site, hybrid and remote opportunities in Spain and Latin America.
-
-**LinkedIn:** https://www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143
