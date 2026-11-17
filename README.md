@@ -82,16 +82,17 @@ Interesado en oportunidades como:
 
 ### Data Analyst | Business Intelligence | SQL Developer
 
-Professional with over 12 years of accumulated experience in banking, finance, procurement and sales. Focused on data analysis, process optimization and transforming data into useful information for business decision-making.
+Professional with over 12 years of experience across banking, finance, procurement and sales. Focused on data analysis, process optimization and transforming data into useful information for business decision-making.
 
-Focused on applying Data Analytics and Business Intelligence tools through SQL, Python and Power BI to analyze information, develop indicators, identify patterns and generate actionable business insights.
+Experienced in applying Data Analytics and Business Intelligence tools such as SQL, Python and Power BI to analyze information, develop indicators, identify patterns and generate actionable business insights.
 
 **Technical skills:** Power BI, DAX, Power Query, Excel, SQL, Oracle, SQLite, Python, Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.
 
 **Featured projects:**
 
-- **Supermarket Sales Analysis – Ecuador:** Analysis of more than 3 million sales records from 54 stores between 2013 and 2017.
-- **Titanic Machine Learning:** Exploratory data analysis, data preparation, predictive model comparison and Kaggle predictions. Kaggle score: 0.77511.
+- **[Supermarket Sales Analysis – Ecuador](https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador):** Analysis of more than 3 million sales records from 54 stores between 2013 and 2017. Includes data quality validation, sales analysis, promotions, seasonality and business insights.
+
+- **[Titanic Machine Learning](https://github.com/Fabianbrd/Titanic-machine-learning):** Exploratory data analysis, data preparation, predictive model comparison, hyperparameter optimization and Kaggle predictions. Kaggle score: 0.77511.
 
 **Professional interests:** Data Analyst, Business Intelligence Analyst, SQL Developer, Reporting Analyst and Financial Data Analyst.
 
