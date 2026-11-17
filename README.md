@@ -41,7 +41,12 @@ Enfocado en aplicar herramientas de Data Analytics y Business Intelligence media
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabianbrd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianbrd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> ## 🚀 Actualmente trabajando en
+
+- Desarrollo de proyectos de análisis de datos con Python y SQL.
+- Creación de dashboards e informes interactivos en Power BI.
+- Análisis de datos comerciales, financieros y operativos.
+- Ampliación de conocimientos en Oracle SQL y PL/SQL.
 ## 📊 Proyectos destacados
 <p align="center">
   <a href="https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador">
@@ -135,6 +140,12 @@ Experienced in applying Data Analytics and Business Intelligence tools such as S
 - Cost and profitability analysis
 - Process optimization
 
+## 🚀 Currently Working On
+
+- Developing data analytics projects using Python and SQL.
+- Building interactive dashboards and reports with Power BI.
+- Analyzing business, financial, and operational data.
+- Expanding my knowledge of Oracle SQL and PL/SQL.
 ---
 
 ## 📊 Featured Projects
