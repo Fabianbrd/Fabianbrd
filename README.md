@@ -36,7 +36,12 @@ Enfocado en aplicar herramientas de Data Analytics y Business Intelligence media
 - Optimización de procesos
 
 ---
+## 📊 Estadísticas de GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabianbrd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianbrd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ## 📊 Proyectos destacados
 
 ### 1. Análisis de ventas de supermercados en Ecuador
