@@ -1,7 +1,13 @@
 # Edgar Fabián Cabrera Bardales
 
 ### Data Analyst | Business Intelligence | SQL Developer
-
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Oracle%20%7C%20SQLite-red?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 Profesional con más de 12 años de experiencia en banca, finanzas, compras y ventas. Orientado al análisis de datos, la optimización de procesos y la transformación de datos en información útil para la toma de decisiones empresariales.
 
 Enfocado en aplicar herramientas de Data Analytics y Business Intelligence mediante SQL, Python y Power BI para analizar información, desarrollar indicadores, identificar patrones y generar conclusiones que aporten valor al negocio.
