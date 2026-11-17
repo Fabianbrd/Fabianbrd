@@ -74,7 +74,7 @@ Interesado en oportunidades como:
 - Reporting Analyst.
 - Analista de Datos y Finanzas.
 
-**Ubicación:** Madrid, España.  
+**Ubicación:** Madrid, España.
 **Disponibilidad:** oportunidades presenciales, híbridas y remotas en España y Latinoamérica.
 
 ---
@@ -162,7 +162,7 @@ Interested in opportunities as:
 - Reporting Analyst.
 - Financial Data Analyst.
 
-**Location:** Madrid, Spain.  
+**Location:** Madrid, Spain.
 **Availability:** On-site, hybrid and remote opportunities in Spain and Latin America.
 
 ---
