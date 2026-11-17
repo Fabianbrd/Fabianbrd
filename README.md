@@ -2,9 +2,9 @@
 
 ### Data Analyst | Business Intelligence | SQL Developer
 
-Profesional con más de 12 años de experiencia acumulada en banca, finanzas, compras y ventas. Orientado al análisis de datos, la optimización de procesos y la transformación de datos en información útil para la toma de decisiones.
+Profesional con más de 12 años de experiencia acumulada en banca, finanzas, compras y ventas. Orientado al análisis de datos, la optimización de procesos y la transformación de datos en información útil para la toma de decisiones empresariales.
 
-Enfocado en aplicar herramientas de Data Analytics y Business Intelligence para analizar información, desarrollar indicadores, identificar patrones y generar conclusiones que faciliten la toma de decisiones empresariales, utilizando SQL, Python y Power BI para analizar información, construir indicadores, identificar patrones y elaborar informes que aporten valor al negocio.
+Enfocado en aplicar herramientas de Data Analytics y Business Intelligence mediante SQL, Python y Power BI para analizar información, desarrollar indicadores, identificar patrones y generar conclusiones que aporten valor al negocio.
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -82,13 +82,23 @@ Interesado en oportunidades como:
 
 ### Data Analyst | Business Intelligence | SQL Developer
 
-Professional with over 12 years of accumulated experience in banking, finance, procurement and sales. Focused on data analysis, process improvement and transforming business information into actionable insights.
+Professional with over 12 years of accumulated experience in banking, finance, procurement and sales. Focused on data analysis, process optimization and transforming data into useful information for business decision-making.
 
-Currently developing practical skills in Data Analytics and Business Intelligence through SQL, Python and Power BI projects.
+Focused on applying Data Analytics and Business Intelligence tools through SQL, Python and Power BI to analyze information, develop indicators, identify patterns and generate actionable business insights.
 
-**Technical skills:** SQL, Oracle, SQLite, Python, Pandas, NumPy, Power BI, Excel and Scikit-learn.
+**Technical skills:** Power BI, DAX, Power Query, Excel, SQL, Oracle, SQLite, Python, Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.
 
 **Featured projects:**
+
+- **Supermarket Sales Analysis – Ecuador:** Analysis of more than 3 million sales records from 54 stores between 2013 and 2017.
+- **Titanic Machine Learning:** Exploratory data analysis, data preparation, predictive model comparison and Kaggle predictions. Kaggle score: 0.77511.
+
+**Professional interests:** Data Analyst, Business Intelligence Analyst, SQL Developer, Reporting Analyst and Financial Data Analyst.
+
+**Location:** Madrid, Spain.  
+**Open to:** On-site, hybrid and remote opportunities in Spain and Latin America.
+
+**LinkedIn:** [View my LinkedIn profile](https://www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143)
 - Supermarket Sales Analysis – Ecuador: Analysis of more than 3 million sales records using Python and SQL.
 - Titanic Machine Learning: Exploratory data analysis, predictive model comparison and Kaggle predictions.
 
