@@ -17,7 +17,7 @@ Las cifras se replicaron con dos métodos (pandas y SQL).
 
 ## 🎯 Qué busco
 
-Una primera oportunidad como **analista de datos junior** o prácticas, donde seguir aprendiendo y aportar.
+Una oportunidad como **analista de datos junior** o prácticas, donde seguir aprendiendo y aportar.
 
 ## 📫 Contacto
 
