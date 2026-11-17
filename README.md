@@ -2,9 +2,9 @@
 
 ### Data Analyst | Business Intelligence | SQL Developer
 
-Profesional con más de 12 años de experiencia acumulada en banca, finanzas, compras y ventas. Orientado al análisis de datos, la optimización de procesos y la transformación de información en conocimiento útil para la toma de decisiones.
+Profesional con más de 12 años de experiencia acumulada en banca, finanzas, compras y ventas. Orientado al análisis de datos, la optimización de procesos y la transformación de datos en información útil para la toma de decisiones.
 
-Actualmente enfocado en el desarrollo de competencias en Data Analytics y Business Intelligence, utilizando SQL, Python y Power BI para analizar información, construir indicadores, identificar patrones y elaborar informes que aporten valor al negocio.
+Enfocado en aplicar herramientas de Data Analytics y Business Intelligence para analizar información, desarrollar indicadores, identificar patrones y generar conclusiones que faciliten la toma de decisiones empresariales, utilizando SQL, Python y Power BI para analizar información, construir indicadores, identificar patrones y elaborar informes que aporten valor al negocio.
 
 ## 🛠️ Tecnologías y herramientas
 
