@@ -1,35 +1,100 @@
-# Edgar Fabián Cabrera Bardales 
+# Edgar Fabián Cabrera Bardales
 
-**Data Analyst | Business Intelligence | Análisis Financiero**
+### Data Analyst | Business Intelligence | SQL Developer
 
-Analista de datos con más de 12 años de experiencia en banca, finanzas, compras y ventas. Convierto datos en información para la toma de decisiones: dashboards de KPIs en Power BI, consultas SQL, análisis en Python y conciliación de cifras entre fuentes.
+Profesional con más de 12 años de experiencia acumulada en banca, finanzas, compras y ventas. Orientado al análisis de datos, la optimización de procesos y la transformación de información en conocimiento útil para la toma de decisiones.
 
-## 🛠️ Herramientas
-- **BI y visualización:** Power BI, DAX, Power Query, Excel avanzado
-- **Datos y programación:** SQL (Oracle, SQLite), Python (pandas, NumPy, Matplotlib, Seaborn), Jupyter
-- **Finanzas:** conciliaciones bancarias, flujo de caja, reporting financiero, KPIs
+Actualmente enfocado en el desarrollo de competencias en Data Analytics y Business Intelligence, utilizando SQL, Python y Power BI para analizar información, construir indicadores, identificar patrones y elaborar informes que aporten valor al negocio.
 
-## 📊 Proyecto destacado
-### [Análisis de ventas de supermercados en Ecuador](https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador)
-Más de 3 millones de registros de ventas (54 tiendas, 2013–2017) analizados con Python y SQL:
-- Detección y corrección de problemas de calidad del dato
-- Efecto de promociones (+24%), feriados (+35% en Navidad) y estacionalidad
-- Recomendaciones de negocio validadas con pandas y SQL
+## 🛠️ Tecnologías y herramientas
 
-## 🎯 Lo que busco
-Roles de **Data Analyst, BI Analyst o Analista Financiero**, en remoto (España y Latinoamérica) o presencial en Madrid.
+**Business Intelligence & Reporting**
+- Power BI
+- DAX y Power Query
+- Excel avanzado
+- Dashboards e indicadores KPI
+
+**Data Analytics & Programming**
+- SQL: Oracle y SQLite
+- Python: Pandas, NumPy, Matplotlib y Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+**Business & Financial Analysis**
+- Análisis financiero y comercial
+- Control de compras, ventas e inventarios
+- Reporting y conciliación de información
+- Análisis de costes y rentabilidad
+- Optimización de procesos
+
+## 📊 Proyectos destacados
+
+### 1. Análisis de ventas de supermercados en Ecuador
+
+[Ver proyecto en GitHub](https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador)
+
+Análisis de más de 3 millones de registros de ventas correspondientes a 54 tiendas durante el periodo 2013–2017.
+
+- Validación y tratamiento de calidad de datos.
+- Análisis mediante Python y SQL.
+- Estudio de promociones, estacionalidad y comportamiento comercial.
+- Identificación de patrones y oportunidades de negocio.
+
+**Tecnologías:** Python, Pandas, SQL y análisis de datos.
+
+### 2. Titanic Machine Learning
+
+[Repositorio pendiente de publicación]
+
+Proyecto de análisis exploratorio y aprendizaje automático basado en la competición Titanic de Kaggle.
+
+- Inspección y preparación de datos.
+- Análisis exploratorio y visualización.
+- Comparación de modelos predictivos.
+- Optimización de hiperparámetros.
+- Generación de predicciones para Kaggle.
+
+**Resultado Kaggle:** 0.77511.
+
+**Tecnologías:** Python, Pandas, NumPy, Matplotlib, Seaborn y Scikit-learn.
+
+## 🎯 Objetivo profesional
+
+Interesado en oportunidades como:
+
+- Data Analyst.
+- Business Intelligence Analyst.
+- SQL Developer.
+- Reporting Analyst.
+- Analista de Datos y Finanzas.
+
+**Ubicación:** Madrid, España.  
+**Disponibilidad:** oportunidades presenciales, híbridas y remotas en España y Latinoamérica.
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143)
+- [GitHub](https://github.com/Fabianbrd)
 
 ---
 
-## 🇬🇧 In English
-Data analyst with 12+ years of experience in banking, finance, procurement and sales. I build KPI dashboards in Power BI, write SQL queries, analyze data in Python and reconcile figures across sources.
+## 🇬🇧 English Version
 
-**Featured project:** [Retail sales analysis – Ecuador supermarkets](https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador): 3M+ records analyzed in Python and SQL; promotions drove +24% sales.
+### Data Analyst | Business Intelligence | SQL Developer
 
-**Looking for:** Data Analyst, BI Analyst or Financial Analyst roles, remote (Europe / LATAM) or in Madrid.
+Professional with over 12 years of accumulated experience in banking, finance, procurement and sales. Focused on data analysis, process improvement and transforming business information into actionable insights.
 
-## 📫 Contacto / Contact
-[LinkedIn](https://www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143) 
+Currently developing practical skills in Data Analytics and Business Intelligence through SQL, Python and Power BI projects.
 
+**Technical skills:** SQL, Oracle, SQLite, Python, Pandas, NumPy, Power BI, Excel and Scikit-learn.
 
+**Featured projects:**
+- Supermarket Sales Analysis – Ecuador: Analysis of more than 3 million sales records using Python and SQL.
+- Titanic Machine Learning: Exploratory data analysis, predictive model comparison and Kaggle predictions.
 
+**Professional interests:** Data Analyst, BI Analyst, SQL Developer and Reporting Analyst.
+
+**Location:** Madrid, Spain.  
+**Open to:** On-site, hybrid and remote opportunities in Spain and Latin America.
+
+**LinkedIn:** https://www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143
