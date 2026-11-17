@@ -92,7 +92,7 @@ Currently developing practical skills in Data Analytics and Business Intelligenc
 - Supermarket Sales Analysis – Ecuador: Analysis of more than 3 million sales records using Python and SQL.
 - Titanic Machine Learning: Exploratory data analysis, predictive model comparison and Kaggle predictions.
 
-**Professional interests:** Data Analyst, BI Analyst, SQL Developer and Reporting Analyst.
+**Professional interests:** Data Analyst, BI Analyst, SQL Developer and Reporting Analyst. 
 
 **Location:** Madrid, Spain.  
 **Open to:** On-site, hybrid and remote opportunities in Spain and Latin America.
