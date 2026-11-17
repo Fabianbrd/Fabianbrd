@@ -43,7 +43,14 @@ Enfocado en aplicar herramientas de Data Analytics y Business Intelligence media
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianbrd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ## 📊 Proyectos destacados
-
+<p align="center">
+  <a href="https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianbrd&repo=analisis-ventas-supermercado-ecuador&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Fabianbrd/Titanic-machine-learning">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianbrd&repo=Titanic-machine-learning&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 ### 1. Análisis de ventas de supermercados en Ecuador
 
 [🔗 Ver proyecto en GitHub](https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador)
