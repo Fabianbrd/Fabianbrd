@@ -1,6 +1,6 @@
 # Hola, soy Fabián Cabrera👋
 
-Estudié un **Grado Superior en Administración y Finanzas** y voy a empezar **Ingeniería en Sistemas**.
+Estudié un **Grado Superior en Administración y Finanzas**.
 Me interesa el análisis de datos: convertir datos en información que ayude a tomar decisiones de negocio.
 
 ## 🛠️ Herramientas
