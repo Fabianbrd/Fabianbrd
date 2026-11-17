@@ -44,7 +44,7 @@ Análisis de más de 3 millones de registros de ventas correspondientes a 54 tie
 
 ### 2. Titanic Machine Learning
 
-[Repositorio pendiente de publicación]
+[Ver proyecto en GitHub](https://github.com/Fabianbrd/Titanic-machine-learning)
 
 Proyecto de análisis exploratorio y aprendizaje automático basado en la competición Titanic de Kaggle.
 
