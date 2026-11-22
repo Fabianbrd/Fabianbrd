@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 Profesional con más de 12 años de experiencia en banca, finanzas, compras y ventas. Orientado al análisis de datos, la optimización de procesos y la transformación de datos en información útil para la toma de decisiones empresariales.
 
 Enfocado en aplicar herramientas de Data Analytics y Business Intelligence mediante SQL, Python y Power BI para analizar información, desarrollar indicadores, identificar patrones y generar conclusiones que aporten valor al negocio.
@@ -41,7 +42,9 @@ Enfocado en aplicar herramientas de Data Analytics y Business Intelligence media
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabianbrd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabianbrd&layout=compact&theme=tokyonight&hide_border=true" />
-</p> ## 🚀 Actualmente trabajando en
+</p>
+
+## 🚀 Actualmente trabajando en
 
 - Desarrollo de proyectos de análisis de datos con Python y SQL.
 - Creación de dashboards e informes interactivos en Power BI.
@@ -49,16 +52,17 @@ Enfocado en aplicar herramientas de Data Analytics y Business Intelligence media
 - Ampliación de conocimientos en Oracle SQL y PL/SQL.
 ## 📊 Proyectos destacados
 <p align="center">
-  <a href="https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianbrd&repo=analisis-ventas-supermercado-ecuador&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Fabianbrd/Venta-Supermercado-Ecuador">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianbrd&repo=Venta-Supermercado-Ecuador&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Fabianbrd/Titanic-machine-learning">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianbrd&repo=Titanic-machine-learning&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
 ### 1. Análisis de ventas de supermercados en Ecuador
 
-[🔗 Ver proyecto en GitHub](https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador)
+[🔗 Ver proyecto en GitHub](https://github.com/Fabianbrd/Venta-Supermercado-Ecuador)
 
 Análisis de más de 3 millones de registros de ventas correspondientes a 54 tiendas durante el periodo 2013–2017.
 
@@ -105,6 +109,7 @@ Interesado en oportunidades como:
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143)
+- [Portafolio web](https://fabianbrd.github.io/)
 - [GitHub](https://github.com/Fabianbrd)
 
 ---
@@ -152,7 +157,7 @@ Experienced in applying Data Analytics and Business Intelligence tools such as S
 
 ### 1. Supermarket Sales Analysis – Ecuador
 
-[🔗 View project on GitHub](https://github.com/Fabianbrd/analisis-ventas-supermercado-ecuador)
+[🔗 View project on GitHub](https://github.com/Fabianbrd/Venta-Supermercado-Ecuador)
 
 Analysis of more than 3 million sales records from 54 stores between 2013 and 2017.
 
@@ -199,4 +204,5 @@ Interested in opportunities as:
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/edgar-fabian-cabrera-bardales-305a50143)
+- [Portfolio website](https://fabianbrd.github.io/)
 - [GitHub](https://github.com/Fabianbrd)
